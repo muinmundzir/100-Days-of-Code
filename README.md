@@ -26,3 +26,4 @@ GitHub repository for python journey in 100 days
   - Nested if Statements
   - Multiple if Statements
   - Logical Operators
+  - Projects: bmi calculator, leap year, love calculator, ticketing, odd or even, order pizza treasure island
