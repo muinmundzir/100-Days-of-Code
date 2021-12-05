@@ -18,3 +18,11 @@ GitHub repository for python journey in 100 days
   - Operations in Python
   - Number Manipulation and F Strings
   - 1 Project: Tip Calculator
+
+- Day 3 consist of
+
+  - Control Flow with if/else
+  - Conditional Operators
+  - Nested if Statements
+  - Multiple if Statements
+  - Logical Operators
