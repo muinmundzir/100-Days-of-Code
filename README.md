@@ -27,3 +27,9 @@ GitHub repository for python journey in 100 days
   - Multiple if Statements
   - Logical Operators
   - Projects: bmi calculator, leap year, love calculator, ticketing, odd or even, order pizza treasure island
+
+- Day 4 consist of
+
+  - Python module
+  - List and Nested List Data Types
+  - Projects: coin toss, banker roulette, treasure map, rock-scissor-paper
