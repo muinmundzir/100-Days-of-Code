@@ -38,3 +38,4 @@ GitHub repository for python journey in 100 days
 
   - For Loops
   - Range() Function
+  - Projects: add even number, average height, highest score, fizzbuzz, password generator
