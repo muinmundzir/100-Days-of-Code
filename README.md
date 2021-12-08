@@ -33,3 +33,8 @@ GitHub repository for python journey in 100 days
   - Python module
   - List and Nested List Data Types
   - Projects: coin toss, banker roulette, treasure map, rock-scissor-paper
+
+- Day 4 consist of:
+
+  - For Loops
+  - Range() Function
